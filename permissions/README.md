@@ -14,3 +14,4 @@
 13 - this file is about changing group of file
 14 - this file is about giving a file owner and group owner at one command
 15 - this file is about giving a symlink owner and group owner at one commant
+16 - this file is about changing owner of file if current owner is specially equal to x-guy
