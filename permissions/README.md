@@ -8,3 +8,4 @@
 7 - this file is about giving execute permission to all
 8 - this file is about giving no permission to owner and group members, but only for others
 9 - this file is about make permission like that -rwxr-x-wx
+10 - this file is about add permission for 2 files
