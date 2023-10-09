@@ -13,3 +13,4 @@
 12 - this file is about setting permission of dir while creating it
 13 - this file is about changing group of file
 14 - this file is about giving a file owner and group owner at one command
+15 - this file is about giving a symlink owner and group owner at one commant
