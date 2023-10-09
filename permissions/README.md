@@ -5,3 +5,4 @@
 4 - this file is about creating empty file named hello
 5 - this file is about adding execute permission to the owner of the file
 6 - this file is about adding execute permission to the owner and group owner, and read permission to other users on file hello
+7 - this file is about giving execute permission to all
