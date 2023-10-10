@@ -7,3 +7,4 @@ I/O Redirections
 6 - show first 10 lines of file
 7 - show 3rd line
 8 - create file with weird name
+9 - redirect ls results to file
