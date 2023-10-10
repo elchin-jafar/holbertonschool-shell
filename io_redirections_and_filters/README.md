@@ -8,3 +8,4 @@ I/O Redirections
 7 - show 3rd line
 8 - create file with weird name
 9 - redirect ls results to file
+10 - duplicate last line of file
