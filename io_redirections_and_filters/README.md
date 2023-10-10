@@ -6,3 +6,4 @@ I/O Redirections
 5 - show last 10 lines of file
 6 - show first 10 lines of file
 7 - show 3rd line
+8 - create file with weird name
