@@ -10,3 +10,4 @@ I/O Redirections
 9 - redirect ls results to file
 10 - duplicate last line of file
 11 - delete all js files
+12 - count all dirctories and subdirs without current one
