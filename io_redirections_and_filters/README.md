@@ -9,3 +9,4 @@ I/O Redirections
 8 - create file with weird name
 9 - redirect ls results to file
 10 - duplicate last line of file
+11 - delete all js files
