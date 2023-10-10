@@ -5,3 +5,4 @@ I/O Redirections
 4 - print 2 different files content
 5 - show last 10 lines of file
 6 - show first 10 lines of file
+7 - show 3rd line
