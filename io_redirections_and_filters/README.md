@@ -19,3 +19,4 @@ I/O Redirections
 18 - find all lines that doesnt match with pattern
 19 - write all lines start with letter
 20 - replace all chars A,c to Z,e
+21 - delete all c and C characthers from input
