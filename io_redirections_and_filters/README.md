@@ -20,3 +20,4 @@ I/O Redirections
 19 - write all lines start with letter
 20 - replace all chars A,c to Z,e
 21 - delete all c and C characthers from input
+22 - revert input
