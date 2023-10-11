@@ -14,3 +14,4 @@ I/O Redirections
 13 - show newest 10 files on curr path
 14 - input many words and script should output unique of them sortedly
 15 - shows lines which include the word "root" in /etc/passwd file
+16 - count the lines which include the word "bin" inside /etc/passwd file
