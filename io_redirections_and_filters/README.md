@@ -18,3 +18,4 @@ I/O Redirections
 17 - write the file contain searching pattern and also 3 lines after those lines
 18 - find all lines that doesnt match with pattern
 19 - write all lines start with letter
+20 - replace all chars A,c to Z,e
