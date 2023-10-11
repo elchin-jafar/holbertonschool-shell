@@ -12,3 +12,4 @@ I/O Redirections
 11 - delete all js files
 12 - count all dirctories and subdirs without current one
 13 - show newest 10 files on curr path
+14 - input many words and script should output unique of them sortedly
