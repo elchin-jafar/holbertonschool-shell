@@ -16,3 +16,4 @@ I/O Redirections
 15 - shows lines which include the word "root" in /etc/passwd file
 16 - count the lines which include the word "bin" inside /etc/passwd file
 17 - write the file contain searching pattern and also 3 lines after those lines
+18 - find all lines that doesnt match with pattern
