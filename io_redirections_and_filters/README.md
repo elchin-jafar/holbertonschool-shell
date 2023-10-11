@@ -21,3 +21,4 @@ I/O Redirections
 20 - replace all chars A,c to Z,e
 21 - delete all c and C characthers from input
 22 - revert input
+23 - show all users and sort them by users
