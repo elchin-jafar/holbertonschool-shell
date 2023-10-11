@@ -13,3 +13,4 @@ I/O Redirections
 12 - count all dirctories and subdirs without current one
 13 - show newest 10 files on curr path
 14 - input many words and script should output unique of them sortedly
+15 - shows lines which include the word "root" in /etc/passwd file
