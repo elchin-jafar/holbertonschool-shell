@@ -7,3 +7,4 @@
 6 - create local variable
 7 - create global var
 8 - create script that add 128 to the TRUEKNOWLEDGE var
+9 - divide the vars POWER DIVIDE
