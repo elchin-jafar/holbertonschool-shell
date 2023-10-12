@@ -3,3 +3,4 @@
 2 - add /action to PATH var
 3 - count dirs on PATH var
 4 - print all env vars
+5 - print all env vars local vars and functions
