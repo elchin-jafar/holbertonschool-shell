@@ -11,3 +11,4 @@
 10 - power the vars BREATH and LOVE
 11 - convert BINARY var to decimal
 12 - print all 2letter combinations but not oo
+13 - print float number with 2 decimal usage of printf command
