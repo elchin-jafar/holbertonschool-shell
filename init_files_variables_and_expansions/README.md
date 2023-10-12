@@ -10,3 +10,4 @@
 9 - divide the vars POWER DIVIDE
 10 - power the vars BREATH and LOVE
 11 - convert BINARY var to decimal
+12 - print all 2letter combinations but not oo
