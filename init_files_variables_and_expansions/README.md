@@ -9,3 +9,4 @@
 8 - create script that add 128 to the TRUEKNOWLEDGE var
 9 - divide the vars POWER DIVIDE
 10 - power the vars BREATH and LOVE
+11 - convert BINARY var to decimal
