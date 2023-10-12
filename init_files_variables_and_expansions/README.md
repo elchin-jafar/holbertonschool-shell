@@ -5,3 +5,4 @@
 4 - print all env vars
 5 - print all env vars local vars and functions
 6 - create local variable
+7 - create global var
