@@ -13,3 +13,4 @@
 12 - print all 2letter combinations but not oo
 13 - print float number with 2 decimal usage of printf command
 14 - convert given num in some var from decimal to hexadecimal
+15 - script encode and decode given text using rot13 encryption
