@@ -24,4 +24,5 @@ I/O Redirections <br />
 22 - show all users and sort them by users <br />
 23 - find empty files and dirs and write only names not path <br />
 24 - find all gif files and list only file names per line per file <br />
-25 - take first letter of every line and put them together
+25 - take first letter of every line and put them together <br />
+26 - list lines of log file and find 11 host who requested most
