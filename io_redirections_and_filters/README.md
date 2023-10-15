@@ -22,4 +22,5 @@ I/O Redirections
 20 - delete all c and C characthers from input
 21 - revert input
 22 - show all users and sort them by users
-23 - find empty files and dirs and write only names not path
+23 - find empty files and dirs and write only names not path__
+24 - find all gif files and list only file names per line per file
